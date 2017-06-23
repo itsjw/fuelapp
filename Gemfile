@@ -14,8 +14,8 @@ group :development, :test do
 end
 # use PG on prod - don't need this, but heroku only supports this
 group :production do
-  gem 'pg'
-  gem 'redis-rails'
+    gem 'sqlite3'
+    gem 'redis-rails'
 end
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
@@ -61,3 +61,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # for API call
 gem 'httparty'
+gem 'material_design_lite-rails', '~> 1.3'
+
+
