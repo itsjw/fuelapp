@@ -14,6 +14,7 @@ group :development, :test do
 end
 # use PG on prod - don't need this, but heroku only supports this
 group :production do
+    gem 'pg'
     gem 'redis-rails'
 end
 # Use Puma as the app server
