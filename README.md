@@ -30,7 +30,5 @@ url: `http://fuelpriceindia.herokuapp.com`
     response: `{ city: {city_name}, price: {fuel_price} }`
     
     
-    <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/4PUBafYHL5hLKNf9zEfcSXcH/bsidio/fuelapp'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/4PUBafYHL5hLKNf9zEfcSXcH/bsidio/fuelapp.svg' />
-</a>
+    
 
