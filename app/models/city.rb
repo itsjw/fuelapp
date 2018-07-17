@@ -48,7 +48,7 @@ class City
         "Lucknow" => 25,
         "Guwahati" => 18,
         "Trivandrum" => 35,
-        "Belagavi" => 576,
+        "Belagavi" => 576
         }
       }
     end
